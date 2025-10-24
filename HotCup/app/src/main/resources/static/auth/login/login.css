@@ -1,7 +1,13 @@
 
 
-.loginForm {
+
+#loginForm {
     display: flex;
     flex-direction: column;
-    background-color: red;
+}
+
+.login-container {
+    height: 400px;
+    width: 400px;
+    background:red; 
 }
